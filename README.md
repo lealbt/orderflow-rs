@@ -25,7 +25,7 @@ A high-performance Rust application that connects to Binance WebSocket API to ca
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/orderflow-rs
+git clone https://github.com/lealbt/orderflow-rs
 cd orderflow-rs
 
 # Build the project
@@ -237,7 +237,8 @@ This software is for educational and research purposes only. It is not financial
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [Your Name] - showcasing modern Rust development practices for high-frequency financial applications.
+Built with ❤️ by Andre L - showcasing modern Rust development practices for high-frequency financial applications.
+https://github.com/lealbt
 
 ---
 
